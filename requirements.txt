@@ -1,0 +1,4 @@
+pandas
+
+autopep8  # autoformat
+pylint  # python linter
